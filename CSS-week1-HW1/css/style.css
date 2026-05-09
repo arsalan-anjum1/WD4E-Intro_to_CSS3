@@ -4,37 +4,30 @@ body {
     margin: 0;
     padding: 0;
 }
-
 header {
     background-color: #34495e;
 }
-
 nav {
     background-color: #2c3e50;
 }
-
 main {
     background-color: #ffffff;
     font-size: 18px;
     padding: 20px;
 }
-
 footer {
     background-color: #ecf0f1;
     padding: 10px;
 }
-
 li {
     display: inline-block;
     width: 120px;
 }
-
 h1 {
     text-align: center;
     font-family: Georgia, Times, serif;
     color: #ffffff;
 }
-
 p {
     line-height: 1.5;
     color: #333333;
